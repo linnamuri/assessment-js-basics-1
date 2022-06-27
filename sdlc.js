@@ -36,5 +36,3 @@ const Implementation = ""
 const TestingAndIntegration = "During the testing stage, developers will go over their software with a fine-tooth comb, noting any bugs or defects that need to be tracked, fixed, and later retested."
 
 const maintain = "The SDLC doesn’t end when software reaches the market. Developers must now move into a maintenance mode and begin practicing any activities required to handle issues reported by end-users."
-‍
-
