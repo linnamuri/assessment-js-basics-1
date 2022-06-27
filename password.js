@@ -1,6 +1,3 @@
-
-
-
     let passwordArray = "assignment1"
 
     if (passwordArray === "password"||passwordArray === "letmein")
