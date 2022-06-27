@@ -4,7 +4,7 @@
 const faveColors = ['red', 'green', 'black']
 
 //CODE HERE
-colorCopy=faveColors.slice(0,4)
+let colorCopy=faveColors.slice(0,3)
 console.log(colorCopy)
 
 //////////////////PROBLEM 2////////////////////
@@ -38,7 +38,7 @@ console.log(middleNums)
 const bigOrSmallArray = [1, 99, 42, 69, 102, -10, 159, 352]
 
 // CODE HERE
-answers=[]
+let answers=[]
 console.log(answers)
 for(i=0;i<bigOrSmallArray.length;i++)
 {if(bigOrSmallArray[i]>100)
